@@ -1,0 +1,125 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1d1d1d;
+    color: #fff;
+}
+
+/* Navigation */
+nav {
+    /* Navigation styles */
+}
+
+nav ul {
+    /* Navigation list styles */
+}
+
+nav ul li {
+    /* Navigation list item styles */
+}
+
+nav ul li a {
+    /* Navigation link styles */
+}
+
+nav ul li a:hover {
+    /* Navigation link hover styles */
+}
+
+/* Logo */
+.logo {
+    /* Logo styles */
+}
+
+/* Hero Section */
+.hero {
+    /* Hero section styles */
+}
+
+.hero h1 {
+    /* Hero heading styles */
+}
+
+.cta-button {
+    /* Call-to-action button styles */
+}
+
+.cta-button:hover {
+    /* Call-to-action button hover styles */
+}
+
+/* About Us Section */
+.about-us {
+    /* About Us section styles */
+}
+
+.about-us h2 {
+    /* About Us heading styles */
+}
+
+/* Footer */
+footer {
+    /* Footer styles */
+}
+
+/* MBK The Label Logo */
+.logo-img {
+    /* Logo image styles */
+}
+
+/* Product Grid */
+.products {
+    /* Product grid styles */
+}
+
+.product-card {
+    /* Product card styles */
+}
+
+.product-card h3 {
+    /* Product card heading styles */
+}
+
+.product-card p {
+    /* Product card paragraph styles */
+}
+
+.price-tag {
+    /* Price tag styles */
+}
+
+/* Contact Form */
+.contact-form {
+    /* Contact form styles */
+}
+
+.contact-form h2 {
+    /* Contact form heading styles */
+}
+
+.contact-form form {
+    /* Contact form styles */
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    /* Contact form input styles */
+}
+
+.contact-form textarea {
+    /* Contact form textarea styles */
+}
+
+.contact-form input[type="submit"] {
+    /* Contact form submit button styles */
+}
+
+.contact-form input[type="submit"]:hover {
+    /* Contact form submit button hover styles */
+}
